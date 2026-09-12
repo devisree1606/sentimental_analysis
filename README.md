@@ -45,7 +45,7 @@ sentimental/
 
 Open the terminal inside the project folder and install the required packages:
 
-```bash
+
 pip install -r requirements.txt
 ```
 
@@ -63,7 +63,7 @@ torch
 
 Open the terminal in the project folder and run:
 
-```bash
+
 python -m streamlit run app.py
 ```
 
